@@ -1,0 +1,26 @@
+@import 'bootstrap/scss/bootstrap';
+@import 'bootstrap-icons/font/bootstrap-icons';
+
+#searchRow{
+    display: flex;
+    justify-content: center;
+}
+#searchInput{
+    height: 50px;
+}
+#titleRow{
+display: flex;
+justify-content: center;
+}
+#tablecol{
+    display: flex;
+    justify-content: center;
+   
+}
+#btnCol{
+    display: flex;
+    justify-content: end;
+}
+#Table{
+    background-color: blueviolet;
+}
